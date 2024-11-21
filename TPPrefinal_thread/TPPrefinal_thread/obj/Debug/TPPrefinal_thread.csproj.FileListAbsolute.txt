@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\bin\Debug\TPPrefinal_thread.exe.config
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\bin\Debug\TPPrefinal_thread.exe
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\bin\Debug\TPPrefinal_thread.pdb
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.Form1.resources
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.exe
+C:\Users\JONALYN\source\repos\TPPrefinal_thread\TPPrefinal_thread\obj\Debug\TPPrefinal_thread.pdb
